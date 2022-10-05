@@ -8,6 +8,12 @@
     <!-- UNICONS -->
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 
+    <!-- SWIPER CSS -->
+    <link rel="stylesheet" href="">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="">
+
     <!-- VITE CONFIG -->
     @vite('resources/css/app.css')
 
@@ -25,5 +31,14 @@
     <footer class="footer">
 
     </footer>
+
+    <!-- SCROLL TOP -->
+
+
+    <!-- SWIPER JS -->
+    <script src=""></script>
+
+    <!-- MAIN JS -->
+    <script src=""></script>
 </body>
 </html>
