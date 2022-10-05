@@ -20,6 +20,8 @@
     <title>Document</title>
 </head>
 <body class="bg-gray-200">
+    {{-- HEADER --}}
+
     <header class="header" id="header">
         @yield('header')
     </header>
@@ -28,6 +30,7 @@
         @yield('content')
     </main>
 
+    {{-- FOOTER --}}
     <footer class="footer">
 
     </footer>
