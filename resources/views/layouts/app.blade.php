@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="">
 
     <!-- VITE CONFIG -->
-    @vite('resources/css/app.css')
+    @vite('resources/js/app.js')
 
     <title>Document</title>
 </head>
